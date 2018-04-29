@@ -102,7 +102,7 @@ int main()
 			  std::cout<<"Cnts:"<<pid.Cnt<<"Tot_Cnt:"<<pid.Total_Cnts<<std::endl;
 			  std::cout<<"dp[0]: "<<pid.dp[0]<< "dp[1]:"<<pid.dp[1]<< "dp[2]: "<<pid.dp[2]<<std::endl;
 			  std::cout<<"icnt:"<<pid.icnt<< std::endl;
-			  //std::cout<< "Best_Error: "<<Best_Error <<"Error:"<<Error<<"icnt:"<<pid.icnt<< std::endl;
+
           }
 
 

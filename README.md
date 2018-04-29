@@ -1,5 +1,5 @@
 # CarND-Controls-PID
-Self-Driving Car Engineer Nanodegree Program
+
 In this project, a twiddle algorithm (gradient descent) was developed to tune the PID controller for car driving simulator. 
 
 ---
