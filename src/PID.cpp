@@ -32,7 +32,7 @@ void PID::UpdateError(double cte) {
 
 double PID::TotalError() {
 	double total_error;
-	total_error = Kp*p_error+Ki*i_error+Kd*d_error;
+	total_error = -(Kp*p_error+Ki*i_error+Kd*d_error);
 	return   total_error;
 
 }
